@@ -1,7 +1,20 @@
+import Carousel from 'components/Carousel'
+import CombosPromocionais from 'components/CombosPromocionais'
+import Header from 'components/Header'
+import Menu from 'components/Menu'
+import Parceiro from 'components/Parceiro'
+import { Container, MainContainer } from './styled'
+
 const Main = () => (
-   <main>
-      <h1>Abner fonseca</h1>
-   </main>
+   <Container>
+      <MainContainer>
+         <Header />
+         <Carousel />
+         <Menu />
+         <Parceiro />
+         <CombosPromocionais />
+      </MainContainer>
+   </Container>
 )
 
 export default Main

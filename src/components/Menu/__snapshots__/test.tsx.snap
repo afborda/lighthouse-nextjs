@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> should render the heading 1`] = `
+<div
+  class="styled__Container-cqlgyt-0 enQcKE"
+>
+  <div
+    class="background-menu"
+  >
+    <div>
+      <a
+        class="link"
+        href="#"
+      >
+        Início
+      </a>
+    </div>
+    <div>
+      <a
+        class="link"
+        href="#"
+      >
+        Combos Promocionais
+      </a>
+    </div>
+    <div>
+      <a
+        class="link"
+        href="#"
+      >
+        Serviços
+      </a>
+    </div>
+  </div>
+</div>
+`;

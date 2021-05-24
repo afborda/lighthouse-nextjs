@@ -13,7 +13,6 @@
    },
    "lint-staged": {
       "src/**/*": [
-         "yarn lint --fix",
          "yarn test --findRelatedTests  --bail"
       ]
    },
@@ -22,6 +21,8 @@
       "next-pwa": "^5.0.6",
       "react": "17.0.1",
       "react-dom": "17.0.1",
+      "react-icons": "^4.2.0",
+      "react-responsive-carousel": "^3.2.18",
       "styled-components": "^5.2.1",
       "webpack": "4"
    },

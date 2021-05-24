@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> should render the heading 1`] = `
+<div
+  class="styled__Container-sc-1nq6g88-0 iGEFbm"
+>
+  <div>
+    <p
+      class="pg-inicial"
+    >
+      Pagina Inicial\\
+    </p>
+    <h1
+      class="pg-title"
+    >
+      Meds
+    </h1>
+  </div>
+  <div
+    class="container-botao"
+  >
+    <a
+      class="botao-voltar"
+      href="#"
+    >
+      Voltar
+    </a>
+  </div>
+</div>
+`;
